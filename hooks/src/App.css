@@ -1,0 +1,25 @@
+.suma{
+font-size: 3rem;
+ display: flex;
+ align-items: center;
+}
+
+input{
+  color: orangered;
+  line-height: 100px;
+  width: 100px;
+  margin:6px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px dotted darkred;
+  outline: none;
+  font-size: 2rem;
+}
+
+button{
+  font-size: 2rem;
+  padding: 5px 15px;
+  color: darkred;
+  border: 1px dotted darkred;
+  border-radius: 8px;
+}
